@@ -2,7 +2,7 @@
 
 # 🦠 Game of Life - Implementación en JS 🦠
 
-Este proyecto es una implementación en JavaScript del famoso **Juego de la Vida** de John Conway. Con visualización por terminal e ingreso del estado inicial mediante un archivo `main.js`
+Implementación en JavaScript del **Juego de la Vida** de John Conway. Con visualización por terminal e ingreso del estado inicial mediante un archivo `main.js`
 ---
 
 ## 🌟 Funcionalidades principales
